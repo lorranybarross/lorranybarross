@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>iOS Developer • Swift & SwiftUI Enthusiast</h3>
-  <img src="https://img.shields.io/github/followers/{lorranybarross}.svg?style=social&label=Follow&maxAge=2592000" alt="Follow Me"/>
+  <img src="https://img.shields.io/github/followers/lorranybarross.svg?style=social&label=Follow&maxAge=2592000" alt="Follow Me"/>
 </div>
 
 <div display="flex" align="center">
